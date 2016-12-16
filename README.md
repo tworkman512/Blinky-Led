@@ -12,3 +12,6 @@ A bare bones Tessel 2 blinky led script
 3. npm install
 4. In your terminal, enter the command t2 run led.js 
 (Note: this assumes you have setup a breadboard with an LED and an 100Ω resistor.) 
+
+### For more information about this experiment:
+Please visit [Sparkfun](https://learn.sparkfun.com/tutorials/experiment-guide-for-the-johnny-five-inventors-kit/experiment-1-blink-an-led)
