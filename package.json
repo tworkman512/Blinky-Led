@@ -1,0 +1,19 @@
+{
+  "name": "blinky-leds",
+  "version": "0.0.0",
+  "description": "Tessel project",
+  "main": "led.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "www.github.com/tessel/t2-cli",
+  "keywords": [
+    "Tessel"
+  ],
+  "author": {
+    "name": "Tom Workman",
+    "email": "tworkman512@gmail.com"
+  },
+  "license": "MIT",
+  "readme": "A bare bones Tessel 2 blinky script."
+}
