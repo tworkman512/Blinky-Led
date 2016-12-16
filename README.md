@@ -9,7 +9,7 @@ A bare bones Tessel 2 blinky led script
 ## Getting Started:
 1. Clone the repo
 2. cd to your project directory
-3. npm install (you need to tell Node to require tessel-io and johnny-five, otherwise things won't work.)
+3. npm install (Note: you need to tell Node to require tessel-io and johnny-five, otherwise things won't work.)
 4. In your terminal, enter the command t2 run led.js 
 (Note: this assumes you have setup a breadboard with an LED and an 100Ω resistor.) 
 
